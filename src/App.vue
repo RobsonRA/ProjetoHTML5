@@ -1,18 +1,24 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img alt="Vue logo" src="./assets/mve.png">
+    <HelloWorld msg="Tostines é mais gostosa porque é fresquina"/>
+    <BotaoBonito></BotaoBonito>
+    <Botao2Lindo></Botao2Lindo>
   </div>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import BotaoBonito from './components/BotaoLaranja.vue'
+import Botao2Lindo from './components/Botao2lLindo.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
-  }
+    HelloWorld,
+    BotaoBonito,
+    Botao2Lindo
+}
 }
 </script>
 

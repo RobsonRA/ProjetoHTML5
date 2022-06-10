@@ -2,9 +2,8 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      É mais fresquinha porque vende mais ou vende mais porque é mais fresquinha?
+      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">Qual será o segredo</a>?
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
